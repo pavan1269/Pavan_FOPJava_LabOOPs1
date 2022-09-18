@@ -3,7 +3,7 @@ package com.greatlearning.itadminsupport.driver;
 import java.util.Scanner;
 
 import com.greatlearning.itadminsupport.model.Employee;
-import com.greatlearnning.itadminsupport.service.ITAdminSupportService;
+import com.greatlearning.itadminsupport.service.ITAdminSupportService;
 
 public class ITAdminSupportAppication {
 

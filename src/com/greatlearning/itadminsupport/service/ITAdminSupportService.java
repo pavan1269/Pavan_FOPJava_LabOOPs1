@@ -1,4 +1,4 @@
-package com.greatlearnning.itadminsupport.service;
+package com.greatlearning.itadminsupport.service;
 
 import java.util.Random;
 
